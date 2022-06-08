@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular, JavaScript, SQL Server**
 
-- 💬 Ask me about **Html,css**
+- 💬 Ask me about **HTML,CSS**
 
 - 📫 How to reach me **nestor.reina06@gmail.com**
 
